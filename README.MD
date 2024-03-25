@@ -30,9 +30,10 @@ https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
 
 #### https://github.com/dickson4954/code-challenge-week-1
 
+[git]{gh-pages link}
 
+#### javascript,Github
 
-#### javascript
 
 ##### github.com/dickson4954
 
